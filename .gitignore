@@ -265,6 +265,9 @@ node_modules/
 **/*.Server/ModelManifest.xml
 _Pvt_Extensions
 
+# NuGet packages folder
+packages/
+
 # Paket dependency manager
 .paket/paket.exe
 paket-files/
